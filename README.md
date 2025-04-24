@@ -38,3 +38,11 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/InamDevilliers/Background-Color-Changer.git
    cd background-color-changer
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Run the development server**
+   ```bash
+   npm run dev
