@@ -39,6 +39,8 @@ Ensure you have the following installed:
    git clone https://github.com/InamDevilliers/Background-Color-Changer.git
    cd background-color-changer
 
+Alternatively, you can download the project ZIP file and extract it.
+
 2. **Install dependencies**
    ```bash
    npm install
