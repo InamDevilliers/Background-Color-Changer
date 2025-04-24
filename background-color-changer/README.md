@@ -3,7 +3,7 @@
 A simple React application that allows users to change the background color of the page by clicking on color buttons. Built with functional components and Tailwind CSS for styling.
 
 ## 📸 Preview
-
+![image](https://github.com/user-attachments/assets/0baeb4af-0730-40be-bb19-97fa0e06aa90)
 
 ---
 
@@ -12,7 +12,6 @@ A simple React application that allows users to change the background color of t
 - Interactive color selection
 - Dynamic background color updates
 - Tailwind CSS styling
-- Responsive and mobile-friendly layout
 - Adaptive text color for readability based on selected background
 
 ---
@@ -37,5 +36,5 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/background-color-changer.git
+   git clone https://github.com/InamDevilliers/Background-Color-Changer.git
    cd background-color-changer
