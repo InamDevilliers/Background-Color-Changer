@@ -12,7 +12,6 @@ A simple React application that allows users to change the background color of t
 - Interactive color selection
 - Dynamic background color updates
 - Tailwind CSS styling
-- Responsive and mobile-friendly layout
 - Adaptive text color for readability based on selected background
 
 ---
